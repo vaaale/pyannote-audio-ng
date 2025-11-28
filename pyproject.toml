@@ -1,5 +1,5 @@
 [project]
-name = "pyannote-audio"
+name = "pyannote-audio-ng"
 description = "State-of-the-art speaker diarization toolkit"
 readme = "README.md"
 authors = [{ name = "Hervé BREDIN", email = "herve@pyannote.ai" }]
