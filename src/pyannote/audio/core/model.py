@@ -639,6 +639,7 @@ class Model(lightning.LightningModule):
                     path_to_model_checkpoint,
                     map_location=map_location,
                     strict=False,
+                    weights_only=False,
                     **kwargs,
                 )
                 return model

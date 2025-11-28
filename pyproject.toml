@@ -30,6 +30,7 @@ dependencies = [
     "soundfile>=0.13.1",
     "matplotlib>=3.10.0",
     "pyannoteai-sdk>=0.3.0",
+    "omegaconf>=2.3.0",
 ]
 
 [project.scripts]
